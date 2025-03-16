@@ -2,23 +2,20 @@
 
 Today's Learning is a multiplatform app built using Kotlin and Compose Multiplatform. 
 
-<details>
-  <summary>Screenshots</summary>
+#### Screenshots
 
-#### Mobile App (Android)
+## Mobile App (Android)
 
-  <img src="media/android_1.png" height="300"/> <img src="media/android_2.png" height="300"/><img src="media/android_3.png" height="300"/> <img src="media/android_4.png" height="300"/>
+  <img src="media/android_1.jpeg" height="300"/> <img src="media/android_2.jpeg" height="300"/><img src="media/android_3.jpeg" height="300"/> <img src="media/android_4.jpeg" height="300"/>
 
-#### Mobile App (iOS)
+## Mobile App (iOS)
 
-  <img src="media/ios_1.png" height="300"/> <img src="media/ios_2.png" height="300"/><img src="media/ios_3.png" height="300"/> <img src="media/ios_4.png" height="300"/>
+  <img src="media/ios_1.jpeg" height="300"/> <img src="media/ios_2.jpeg" height="300"/><img src="media/ios_3.jpeg" height="300"/> <img src="media/ios_4.jpeg" height="300"/>
 
 
-#### Desktop App
+## Desktop App
 
-  <img src="media/desktop1.png" height="300"/> <img src="media/desktop2.png" height="300"/> 
-
-</details>
+  <img src="media/desktop1.jpeg" height="300"/> <img src="media/desktop2.jpeg" height="300"/> 
 
 ## Built with 🛠️
 
