@@ -14,6 +14,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Todays_Learning"
+rootProject.name = "TodaysLearning"
 include(":androidApp")
 include(":shared")
